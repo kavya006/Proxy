@@ -1,5 +1,5 @@
-Project Title: PROXY - Attendance Assistant
-
+# PROXY - Attendance Assistant
+CS3410 Course Project
 
 Synopsis:
 Proxy is a software developed intended to be used by universities to maintain the record of attendance of students enrolled in a particular course. This software emphasizes mainly on the detection of faces in the pictures and matching the detected pictures to the students pictures. Proxy is intended to provide an easy way for teachers
@@ -37,3 +37,4 @@ Nikitha Gollamudi - www.github.com/Nikitha2497
 Kavya Mrudula - www.github.com/kavya006
 Sistla Meghana Aparna - www.github.com/cs14b052
 Vemuri Sowjanya - www.github.com/vemurisowjanya
+
