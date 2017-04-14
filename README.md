@@ -17,9 +17,9 @@ How to use:
 		$python manage.py runserver
 5. To run the js client, run "npm start". This starts a local server which hosts the webpage on the local address, "http://localhost:8100/".
 
-6. The pictures used for training(i.e the individual pics of every individual in the class) should be present in the directory "Proxy/app/images/Training_Pictures". For this, "Advanced Options" can be used.
+6. The pictures used for training(i.e the individual pics of every individual in the class) should be present in the directory "Proxy/Client/app/images/Training_Pictures". For this, "Advanced Options" can be used.
 
-7. The class pictures uploaded by teacher every day for attendance should be present in the directory "Proxy/app/images/Test_Pictures".
+7. The class pictures uploaded by teacher every day for attendance should be present in the directory "Proxy/Client/app/images/Test_Pictures".
 
 
 Motivation:
