@@ -1,8 +1,6 @@
-# Beginner's Guide to React Router Repo
+# Guide to install and use the Proxy Client Side Code
 
-> This tutorial uses React Router version 2.0.1
-
-This goes along with the medium post [Beginner's Guide to React Router](https://medium.com/p/53094349669/)
+> This code should be used alongside Proxy Server Code for it to work
 
 **To get started with this project, do the following:**
 
